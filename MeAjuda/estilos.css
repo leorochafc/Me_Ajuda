@@ -1,0 +1,56 @@
+#Tela
+{
+	height: 801px;
+	width: 481px;
+	border: 2px solid black;
+}
+
+#BarraTopo
+{
+	height: 15%;
+	width: 100%;
+	margin-top: -27px;
+	background-color: #1874CD;
+}
+
+#Titulo h1
+{
+	font-family: Gulim, Calibri;
+	font-size: 40px;
+	text-align: center;
+	color: white;
+
+}
+
+#MenuCategoria
+{
+	font-size: 40px;
+	font-family: Gulim, Calibri;
+	color: #8B8B83;
+	text-align: left;
+}
+
+
+
+#BordaMenu
+{
+	height: 6.5%;
+	width: 96%;
+	border: 3px solid #8B8B83;
+	border-radius: 7.5px;
+	margin-left: 1.5%;
+	margin-top: 20%;
+	box-shadow: 5.5px 5.5px 15px #888888;
+}
+
+#panel
+{
+display:none;
+}
+
+#categoria a
+{
+	text-decoration : none; 
+	color: #6E6E6E;
+	font-size: 30px;
+}
